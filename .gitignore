@@ -7,3 +7,5 @@
 !.claude/skills/lol-guide/
 !.claude/skills/lol-guide/**
 !.gitignore
+!.gitattributes
+!README.md
