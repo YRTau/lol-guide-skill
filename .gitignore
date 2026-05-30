@@ -1,0 +1,9 @@
+# 忽略所有文件
+*
+
+# 只跟踪 lol-guide skill
+!.claude/
+!.claude/skills/
+!.claude/skills/lol-guide/
+!.claude/skills/lol-guide/**
+!.gitignore
